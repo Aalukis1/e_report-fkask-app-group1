@@ -1,0 +1,9 @@
+e-Report App
+this allows a worker to enter activities they will/have perform(ed) for the day/week/month.
+
+the app should be able to 
+1. sign up
+2. sign in 
+3. add activities
+4. Display status of the activities ( ie done, ongoing or not done)
+5. Display selected employee's activities on the home page
