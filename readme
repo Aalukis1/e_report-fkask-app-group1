@@ -1,5 +1,10 @@
 e-Report App
 this allows a worker to enter activities they will/have perform(ed) for the day/week/month.
+To contribute to this project
+
+* Import mysql db
+	# Create database eReportdb 
+	#run this command mysql -u username -p new_database(eReportdb) < eReportdb.sql
 
 the app should be able to 
 1. sign up
